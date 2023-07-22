@@ -1,0 +1,104 @@
+@media screen and (min-width: 1516px){ 
+
+    #content{
+        display: grid;
+        background-color: rgb(255, 255, 255);
+        width: auto;
+        padding: 0 10rem;
+        grid-template-columns: repeat(5, 20%);
+        grid-template-rows: repeat(60, 4rem);
+        grid-gap: 0.938rem;
+        justify-content: center;
+    }
+    
+}
+
+@media screen and (min-width: 1706px){ 
+
+    #content{
+        display: grid;
+        background-color: rgb(255, 255, 255);
+        width: auto;
+        padding: 0 7rem;
+        grid-template-columns: repeat(6, 16.6%);
+        grid-template-rows: repeat(50, 4rem);
+        grid-gap: 0.938rem;
+        justify-content: center;
+    }
+    
+}
+
+@media screen and (min-width: 1820px){ 
+
+    #content{
+        display: grid;
+        background-color: rgb(255, 255, 255);
+        width: auto;
+        padding: 0 3rem;
+        grid-template-columns: repeat(7, 14.2%);
+        grid-template-rows: repeat(50, 4rem);
+        grid-gap: 0.938rem;
+        justify-content: center;
+    }
+    
+}
+
+@media screen and (min-width: 2048px){ 
+
+    #content{
+        display: grid;
+        background-color: rgb(255, 255, 255);
+        width: auto;
+        padding: 0 3rem;
+        grid-template-columns: repeat(8, 12.5%);
+        grid-template-rows: repeat(50, 4rem);
+        grid-gap: 0.938rem;
+        justify-content: center;
+    }
+    
+}
+
+@media screen and (min-width: 2731px){ 
+
+    #content{
+        display: grid;
+        background-color: rgb(255, 255, 255);
+        width: auto;
+        padding: 0 5rem;
+        grid-template-columns: repeat(10, 9.5%);
+        grid-template-rows: repeat(50, 4rem);
+        grid-gap: 0.938rem;
+        justify-content: center;
+    }
+    
+}
+
+@media screen and (min-width: 4097px){ 
+
+    #content{
+        display: grid;
+        background-color: rgb(255, 255, 255);
+        width: auto;
+        padding: 0 1rem;
+        grid-template-columns: repeat(16, 5.9%);
+        grid-template-rows: repeat(50, 4rem);
+        grid-gap: 0.938rem;
+        justify-content: center;
+    }
+    
+}
+
+@media screen and (min-width: 5463px){ 
+
+    #content{
+        display: grid;
+        background-color: rgb(255, 255, 255);
+        width: auto;
+        padding: 0 1rem;
+        grid-template-columns: repeat(21, 4%);
+        grid-template-rows: repeat(50, 4rem);
+        grid-gap: 0.938rem;
+        justify-content: center;
+    }
+
+}
